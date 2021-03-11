@@ -1,5 +1,11 @@
 # tf-pose-estimation
 
+As part of my final year project, I had to develop a computer vision application to count the number of people in a room, detect their clothing (shirt or suit) and activities (standing or sitting). This was a significantly large project, which is why multiple programs had to be run at the same time. In this specific folder, the program as well as the output of the computer vision application is provided. Run the activity_detect4.py file to see the output. Before that, however, do download the ckpt folder from this google drive link: https://drive.google.com/drive/folders/1PSTr5nmXtjg8Lonfybx6kDa25fD1GIdq?usp=sharing**
+
+##Computer vision application output
+![](project_images/fyp1.JPG)
+![](project_images/fyp2.JPG)
+
 'Openpose' for human pose estimation have been implemented using Tensorflow. It also provides several variants that have made some changes to the network structure for **real-time processing on the CPU or low-power embedded devices.**
 
 
