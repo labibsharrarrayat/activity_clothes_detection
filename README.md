@@ -172,6 +172,9 @@ See : [etcs/training.md](./etcs/training.md)
 
 ## References
 
+### Project Paper for Undergraduate Final Project
+[1] https://www.researchgate.net/publication/354687324_Smart_Vision-based_HVAC_System
+
 ### OpenPose
 
 [1] https://github.com/CMU-Perceptual-Computing-Lab/openpose
